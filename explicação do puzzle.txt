@@ -1,0 +1,5 @@
+Puzzle:
+Começa com uma sequencia de pastas no rpg, essa sequencia de pastas leva a um link "google drive" com uma sequencia de pastas igual a que eles acharam no computador, fazendo essa sequencia de pastas eles vao achar um arquivo .rar com senha.
+
+-Descobrir a senha-
+para descobrir a senha dentro do rpg os players vao ter que fazer um puzzle com a luzes que vai liberar uma pasta no computador, nessa pasta vai ter uma senha em hexadecimal sendo ela 37H um codigo hexadecimal para "7"
